@@ -1,0 +1,61 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    height: 200px;
+    background-color: rgb(19, 14, 32);
+}
+
+div.j {
+    display: flex;
+}
+
+div.a {
+    height: 500px;
+    width: 50%;
+}
+
+div.aa {
+    position: relative;
+    top: 40%;
+    left: 15%;
+}
+
+div.b {
+    height: 500px;
+    width: 50%;
+}
+
+div.jj {
+    display: flex;
+    justify-content: center;
+}
+
+div.n {
+    border: solid rgb(177, 202, 209) 1px;
+    height: 400px;
+    width: 30%;
+}
+
+.imgg {
+    position: relative;
+    top: 55px;
+    left: 80px;
+}
+
+.nn {
+    color: floralwhite;
+    position: relative;
+    top: 100px;
+}
+
+div.m {
+    border: solid rgb(177, 202, 209) 1px;
+    height: 400px;
+    width: 30%;
+}
+
+div.o {
+    border: solid rgb(177, 202, 209) 1px;
+    height: 400px;
+    width: 30%;
+}
